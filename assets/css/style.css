@@ -3,19 +3,7 @@ body {
     margin: 0;
     padding: 0;
   }
-main {
-    margin-top: 50px;
-}
-.col {
-  display: inline-block;
-  padding-left: 10px;
-  max-width: 30%;
-  margin-bottom: 50px;
-}
-.col img {
+
+.card-body img{
     width: 100%;
 }
-.col p {
-    margin-top: 15px;
-    margin-bottom: 35px;
-  }
