@@ -1,0 +1,14 @@
+.jumbotron{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: auto;
+}
+.jumbotron section{
+    display: grid;
+    grid-row: 2;
+    margin-top: auto;
+    justify-items: center;
+}
