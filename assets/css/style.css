@@ -27,3 +27,10 @@
     max-width: 100%;
 
 }
+.text-muted{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: #f1f1f1;
+    bottom: 0px;
+}
