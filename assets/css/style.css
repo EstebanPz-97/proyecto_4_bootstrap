@@ -1,7 +1,16 @@
-.card-group {
+.card-group .card-title{
+    padding: 15px 50px;
+    left: calc(50%);
     text-align: center;
+    color:#00bcd4;
 }
+
 .card-group img{
     width: 100%;
-    height: auto;
+    height: 12.5rem;
 }
+.container{
+    max-width: 100%;
+
+}
+
