@@ -70,7 +70,10 @@ main{
     height: 300px;
     margin-bottom: 15px;
 }
-
+.main-contacto{
+    width: 100%;
+    margin: 10px;
+}
 .main-contacto .main-contacto-form {
     margin: 25px;
 }
