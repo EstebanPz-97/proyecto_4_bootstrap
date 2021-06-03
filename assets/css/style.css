@@ -58,3 +58,7 @@
 .main-contacto .main-contacto-form {
     margin: 25px;
 }
+.col p{
+    padding: 25px;
+    text-align: justify;
+}
