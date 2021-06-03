@@ -40,12 +40,16 @@
 }
 .container-cursos{
     padding: 25px;
-    font-family: "Roboto mono", monospace;
     margin: 0;
     padding: 0;
   }
 
 .card-body img{
     width: 100%;
+    height: 300px;
     margin-bottom: 15px;
+}
+
+.main-contacto .main-contacto-form {
+    margin: 25px;
 }
