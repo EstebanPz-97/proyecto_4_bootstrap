@@ -33,6 +33,7 @@
 .container{
     max-width: 100%;
 }
-.container-cursos{
+.col p{
     padding: 25px;
+    text-align: justify;
 }
