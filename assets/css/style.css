@@ -1,4 +1,4 @@
-  
+
 .jumbotron{
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
@@ -30,6 +30,11 @@ main{
 }
 .col p{
     padding: 15px;
+    margin-bottom: 14px;
+}
+.col button{
+    margin-left: 15px;
+    padding: 15px;
 }
 .card-group img{
     width: 100%;
@@ -39,7 +44,7 @@ main{
     max-width: 100%;
 }
 .text-muted{
-    margin-top: 50px;
+    margin-top: 115px;
     position: absolute;
     width: 100%;
     height: auto;
