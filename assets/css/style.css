@@ -7,7 +7,9 @@
     background-size: 100%;
     background-position: center;
     opacity: 0.8;
-    margin-bottom: 50px;
+}
+main{
+    margin-top: 50px;
 }
 .jumbotron section{
     display: grid;
@@ -38,6 +40,7 @@
     max-width: 100%;
 }
 .text-muted{
+    margin-top: 50px;
     position: absolute;
     width: 100%;
     height: auto;
