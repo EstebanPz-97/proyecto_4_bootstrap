@@ -63,13 +63,22 @@ main{
     margin: 0;
     padding: 0;
   }
-
+.card-body h5{
+    color:#00bcd4;
+}
+.card-body a{
+   background-color: #00bcd4;
+   color: white;
+}
 .card-body img{
     width: 100%;
     height: 300px;
     margin-bottom: 15px;
 }
-
+.main-contacto{
+    width: 100%;
+    margin: 10px;
+}
 .main-contacto .main-contacto-form {
     margin: 25px;
 }
@@ -82,4 +91,7 @@ main{
     margin-left: 20px;
     margin-right: 20px;
 }
-
+.main-form .btn {
+    background-color: #00bcd4;
+    color: white;
+}
